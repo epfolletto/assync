@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Concorrência x Paralelismo}{3}{0}{1}
+\beamer@sectionintoc {2}{Estilo de programação sequencial x paralelo}{5}{0}{2}
+\beamer@sectionintoc {3}{Multithreading x Multiprocessamento}{7}{0}{3}
+\beamer@sectionintoc {4}{Filas de tarefas com Celery}{10}{0}{4}
+\beamer@sectionintoc {5}{Programação assíncrona com AsyncIO e Async/Await}{13}{0}{5}
+\beamer@sectionintoc {6}{Solicitações HTTP assíncronas: aiohttp}{15}{0}{6}
